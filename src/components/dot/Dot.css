@@ -1,0 +1,9 @@
+.Container {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
